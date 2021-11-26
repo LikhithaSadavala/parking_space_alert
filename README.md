@@ -1,5 +1,5 @@
 # Snagging Parking Spaces with Mask R-CNN and Python
-- Detect free parking slots
+- Detect free parking lots
 ## Intro:
 - Searching for a free parking could be a night mare. They are usually taken, and once not, they quickly get stolen.
 
