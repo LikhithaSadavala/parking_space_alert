@@ -5,7 +5,7 @@
 
 - The idea of this model is to locate a camera which will constantly record, and let a DL model to monitor the image and notify the person by text message instantly when a slot is released.
 
-**(This is just a model to demonstrate what if we use python, mask rcnn, twilio combined and what we can accomplish with that.I am not going to implement this model anywhere publicly.Also this is one of thousands of ML models to mainly demonstrate the use of Mask RCNN.)**
+**(This is just a model to demonstrate what if we use python, mask rcnn, twilio combined and what we can accomplish with that. I am not going to implement this model anywhere publicly. Also this is one of thousands of ML models to mainly demonstrate the use of Mask RCNN.)**
 
 ## Agenda:
 1. The input to the machine learning pipeline is simply a video stream from a normal webcam pointed out the window.
