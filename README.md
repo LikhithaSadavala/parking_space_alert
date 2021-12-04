@@ -14,7 +14,7 @@
 ### Detecting cars:
 We need a model who can detect and segment cars in the image - which will be equivalent to parking spots when the cars are static.
 
-![overview](https://user-images.githubusercontent.com/52026724/144707638-b3f368fc-db10-459c-9c72-2232d096aa06.jpg)
+![overview](https://user-images.githubusercontent.com/52026724/144708718-62abb1da-9870-4803-9d17-175b133e79ac.jpg)
 
 There are old-fashioned options such as:
 
