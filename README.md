@@ -5,6 +5,8 @@
 
 - The idea of this model is to locate a camera which will constantly record, and let a DL model to monitor the image and notify the person by text message instantly when a slot is released.
 
+[Requirements](https://github.com/LikhithaSadavala/parking_space_alert/blob/main/Requirements.txt)
+
 **(This is just a model to demonstrate what if we use python, mask rcnn, twilio combined and what we can accomplish with that. I am not going to implement this model anywhere publicly. Also this is one of thousands of ML models to mainly demonstrate the use of Mask RCNN.)**
 
 ## Agenda:
