@@ -1,3 +1,5 @@
+Programming language: PYTHON
+
 List python packages used in this model
 - os
 - numpy
@@ -6,3 +8,8 @@ List python packages used in this model
 - pathlib
 - twilio
 Installation: pip install {package_name}
+
+TensorFlow version - 1.15.3 
+Keras - 2.2.4
+
+
