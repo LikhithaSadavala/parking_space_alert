@@ -4,6 +4,9 @@
 - Searching for a free parking could be a night mare. They are usually taken, and once not, they quickly get stolen.
 
 - The idea of this model is to locate a camera which will constantly record, and let a DL model to monitor the image and notify the person by text message instantly when a slot is released.
+
+**(This is just a model to demonstrate what if we use python, mask rcnn, twilio combined and what we can accomplish with that.I am not going to implement this model anywhere publicly.Also this is one of thousands of ML models to mainly demonstrate the use of Mask RCNN.)**
+
 ## Agenda:
 1. The input to the machine learning pipeline is simply a video stream from a normal webcam pointed out the window.
 2. The first step in the pipeline is to detect all possible parking spaces in a frame of video. Obviously we need to know which parts of the image are parking spaces before we can detect which parking spaces are unoccupied.
